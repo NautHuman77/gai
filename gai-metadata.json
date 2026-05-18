@@ -1,1 +1,25 @@
-
+{
+  "name": "GAI",
+  "symbol": "GAI",
+  "description": "Powered by Questionable Intelligence",
+  "image": "",
+  "banner": "",
+  "external_url": "",
+  "twitter": "",
+  "discord": "",
+  "website": "",
+  "tags": ["solana"],
+  "extensions": {
+    "mintAuthorityBurned": true,
+    "freezeAuthorityBurned": true,
+    "lpBurned": true
+  },
+  "properties": {
+    "category": "fungible",
+    "links": {
+      "website": "",
+      "twitter": "",
+      "discord": ""
+    }
+  }
+}
