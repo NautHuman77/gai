@@ -2,16 +2,12 @@
   "name": "GAI",
   "symbol": "GAI",
   "description": "Powered by Questionable Intelligence",
-  "image": "",
+  "image": "https://github.com/NautHuman77/gai/blob/bf1f4df62912b4f573ea985d716905f5dbbb4b44/gai-logo.png",
   "banner": "",
-  "external_url": "",
-  "twitter": "",
-  "discord": "",
-  "website": "",
   "tags": ["solana"],
   "extensions": {
-    "mintAuthorityBurned": true,
-    "freezeAuthorityBurned": true,
+    "mintAuthorityBurned": false,
+    "freezeAuthorityBurned": false,
     "lpBurned": true
   },
   "properties": {
